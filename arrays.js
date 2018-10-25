@@ -22,7 +22,8 @@ function destructivelyAddElementToEndOfArray(array,element){
 }
 
 function accessElementInArray(array,index){
-  var myA
+  var returnElement = array [3]
+  return returnElement
 }
 
 
